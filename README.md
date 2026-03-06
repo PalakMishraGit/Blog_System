@@ -21,3 +21,24 @@ If you are developing a production application, we recommend using TypeScript wi
 # Blog_System
 A modern React-based web application built using Vite for fast development and optimized builds. The project integrates Redux for centralized state management, TailwindCSS for responsive UI styling, and Axios for efficient API communication. Designed with a modular component architecture to ensure scalability, maintainability, and high performance.
 
+# Blog System
+
+A modern React-based web application built using Vite.
+
+## Tech Stack
+- React
+- Redux
+- TailwindCSS
+- Axios
+- Vite
+
+## Features
+- Create and manage blog posts
+- Centralized state management with Redux
+- Responsive UI with TailwindCSS
+- API communication using Axios
+
+## Installation
+npm install
+npm run dev
+
